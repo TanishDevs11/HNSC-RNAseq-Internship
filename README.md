@@ -17,7 +17,7 @@ Summer internship project &nbsp;·&nbsp; St. John's Research Institute, Bengalur
 [Source code](src/) &nbsp;·&nbsp;
 [Results](results/)
 
-[Special Thanks to my Friend : **[Hemalaskshmi.P](https://github.com/Hemapushparaj)**]
+Special Thanks to my Friend : **[Hemalaskshmi.P](https://github.com/Hemapushparaj)**
 
 </div>
 
