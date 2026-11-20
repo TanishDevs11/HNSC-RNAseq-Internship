@@ -395,7 +395,7 @@ This work was carried out as a summer internship at **St. John's Research Instit
 - **St. John's Research Institute, Bengaluru**, for hosting the internship;
 - **Indira Gandhi College of Arts and Science, Puducherry**, and its Department of Biotechnology, for academic support;
 - **my parents**, for their constant encouragement and unwavering support.
-- **My Bestfriend****[Hemalakshmi.P](https://github.com/Hemapushparaj)** For her constant support and cheering and help throughout the internship days. 
+- **My Bestfriend** **[Hemalakshmi.P](https://github.com/Hemapushparaj)** For her constant support and cheering and help throughout the internship days. 
 
 The research scholars, faculty members and colleague acknowledged in the report are listed in [`docs/acknowledgements.md`](docs/acknowledgements.md).
 
