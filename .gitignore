@@ -1,0 +1,38 @@
+# R session artefacts
+.Rhistory
+.RData
+.RDataTmp*
+.Rproj.user/
+*.Rproj
+.Ruserdata
+
+# Editor / OS / tooling
+.claude/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+
+# Large or raw data: obtain from GDC / UCSC Xena / GTEx (see README > Reproducibility)
+*.gct.gz
+*.tar.gz
+*_gene_expected_count
+*_gene_expected_count.gz
+*.deseq2-normalized.log2.gz
+*.augmented_star_gene_counts.tsv
+gdc_manifest.*.txt
+Combined_Count_Matrix*.csv
+DESeq2_Normalized_Counts.csv
+*_Counts_Harmonized.csv
+*_Common_Genes_Counts.csv
+hnsc_counts_*.csv
+HNSC_counts_HUGO.csv
+logs/
+
+# Credentials (never commit)
+.env
+*.pem
+credentials*.json
+gdc-user-token*.txt

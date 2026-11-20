@@ -1,0 +1,12 @@
+# Original analysis files are stored byte-for-byte (no line-ending normalisation),
+# so they remain identical to the files produced/run during the internship.
+src/**/*.R            -text
+results/*.csv         -text
+results/*.txt         -text
+data/provenance/*.csv -text
+data/provenance/*.txt -text
+
+# Binary assets
+*.pdf  binary
+*.jpg  binary
+*.png  binary
