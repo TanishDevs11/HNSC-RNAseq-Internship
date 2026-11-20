@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you refer to this work, please cite the internship report as below."
+title: "Differential Gene Expression Analysis of Head and Neck Squamous Cell Carcinoma (HNSC) Using RNA Sequencing Data"
+type: software
+authors:
+  - name: "Tanish N"
+    affiliation: "Department of Biotechnology, Indira Gandhi College of Arts and Science, Puducherry"
+date-released: "2026-11-20"
+repository-code: "https://github.com/TanishDevs11/HNSC-RNAseq-Internship"
+license: MIT
+abstract: >-
+  Cross-cohort transcriptomic pipeline integrating TCGA-HNSC tumour RNA-seq
+  (482 primary tumour, 37 adjacent normal) with GTEx Esophagus Mucosa as
+  surrogate normal tissue (273 samples). Covers identifier harmonisation
+  (56,600 genes x 792 samples), exploratory PCA, ComBat-Seq batch correction,
+  DESeq2 differential expression with apeglm shrinkage, and Reactome and
+  ToppGene pathway enrichment, with explicit assessment of batch-condition
+  confounding. Summer internship carried out at St. John's Research
+  Institute, Bengaluru.
+keywords:
+  - head and neck squamous cell carcinoma
+  - RNA-seq
+  - TCGA
+  - GTEx
+  - batch effects
+  - ComBat-Seq
+  - DESeq2
+  - pathway enrichment
+preferred-citation:
+  type: report
+  title: "Differential Gene Expression Analysis of Head and Neck Squamous Cell Carcinoma (HNSC) Using RNA Sequencing Data"
+  authors:
+    - name: "Tanish N"
+  year: 2026
+  institution:
+    name: "St. John's Research Institute, Bengaluru; Indira Gandhi College of Arts and Science, Puducherry"
+  notes: "Internship report submitted to Pondicherry University in partial fulfilment of the B.Sc. Biotechnology degree."
